@@ -1,0 +1,19 @@
+.alertbox{
+    width: 30% !important;
+}
+/* animate__backInRigh */
+
+@media screen and (max-width: 800px) {
+    .alertbox{
+        width: 80% !important;
+        margin: 0 auto;
+        margin-bottom: 20px;
+    }
+}
+
+@media screen and (min-width: 800px)  {
+    .alertbox{
+        position:absolute;
+        top: 30px;
+    }
+}

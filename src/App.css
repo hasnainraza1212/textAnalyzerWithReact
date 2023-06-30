@@ -1,0 +1,27 @@
+.parag{
+width: 82%;
+margin: 0 auto;
+}
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.main{
+    min-height: 100vh;
+    padding: 40px 0;
+}
+.lightMode{
+    background-color: white !important;
+    color: rgb(32, 32, 32) !important;
+}
+
+.darkMode{
+    background-color: black !important;
+    color: white !important;
+}
+
+.evetBtn{
+    width: 180px;
+}
+
